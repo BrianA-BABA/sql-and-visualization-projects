@@ -1,4 +1,13 @@
 /* 
+This SQL script is the source for multiple dashboards, including:
+1. Cash Activity Dashboard: Highlights cash trends and payer contributions.
+2. Performance Insights Dashboard: Analyzes weekly performance and service location metrics.
+
+Both dashboards are built on the data retrieved by this query.
+*/
+
+
+/* 
 The following query is used to report cash collections for [Hospital]. 
 Descriptions of functions or columns are provided in the subsequent lines for clarity.
 */
