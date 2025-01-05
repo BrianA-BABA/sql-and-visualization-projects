@@ -1,6 +1,6 @@
 ## Contents
 ### SQL Queries
-1. **[CASH SQL Floating 4 Years.sql](link-to-file)**  
+1. **[CASH SQL Floating 4 Years.sql]([link-to-file](https://github.com/BrianA-BABA/sql-and-visualization-projects/blob/main/CASH%20SQL_Floating%204%20Years.sql))**  
    - **Purpose**: This SQL script serves as the backbone for generating all the dashboards in this repository. It retrieves cash activity data, payer trends, and account performance over time.
 
 ### Dashboards
