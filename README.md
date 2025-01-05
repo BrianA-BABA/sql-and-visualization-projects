@@ -1,11 +1,8 @@
-## Contents
-### SQL Queries
-1. **[CASH SQL Floating 4 Years.sql]([link-to-file](https://github.com/BrianA-BABA/sql-and-visualization-projects/blob/main/CASH%20SQL_Floating%204%20Years.sql))**  
-   - **Purpose**: This SQL script serves as the backbone for generating all the dashboards in this repository. It retrieves cash activity data, payer trends, and account performance over time.
+## Cash Activity and Performance Insights Project
+This project includes:
+- **SQL Script**: [CASH SQL Floating 4 Years.sql](link-to-file)
+- **Dashboards**:
+  1. [Cash Activity Dashboard](link-to-image)
+  2. [Performance Insights Dashboard](link-to-image)
 
-### Dashboards
-1. **Cash Activity Dashboard**  
-   - Built using data from the SQL script. Focuses on cash trends by month, payer type, and posting percentage.
-
-2. **Performance Insights Dashboard**  
-   - Created using the same SQL script. Provides detailed weekly comparisons, payer contributions, and service location analysis.
+All dashboards are powered by the same SQL query, demonstrating how versatile data extraction can produce multiple insights.
